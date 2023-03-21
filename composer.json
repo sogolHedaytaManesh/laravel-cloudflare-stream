@@ -1,5 +1,6 @@
 {
     "name": "afloeter/laravel-cloudflare-stream",
+    "version": "0.0.3",
     "description": "Manage the Cloudflare Stream API with ease.",
     "authors": [
         {
@@ -16,7 +17,7 @@
     },
     "require": {
         "ext-json": "*",
-        "firebase/php-jwt": "^5.2",
+        "firebase/php-jwt": "^6.4",
         "guzzlehttp/guzzle": "^7.2 || ^6.3",
         "laravel/framework": "^9.0 || ^8.0"
     }
